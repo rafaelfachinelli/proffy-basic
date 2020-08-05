@@ -1,7 +1,5 @@
 <img src="./github/banner.png" alt="Proffy">
 
-<p align="center">Sua plataforma de estudos online.</p>
-
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/Proffy?style=flat-square">
