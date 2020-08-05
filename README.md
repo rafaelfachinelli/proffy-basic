@@ -3,6 +3,15 @@
 <p align="center">Sua plataforma de estudos online.</p>
 
 <p align="center">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/Proffy?style=flat-square">
+  <a href="https://github.com/rafaelfachinelli">
+    <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=flat-square">
+  </a>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=flat-square"/>
+<p>
+
+<p align="center">
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#demonstração">Demonstração</a> • 
@@ -68,8 +77,9 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 
 ### Licença
+---
 
-Autor
+### Autor
 ---
 
 <a href="https://github.com/rafaelfachinelli">
