@@ -15,11 +15,11 @@
  <a href="#computer-sobre">Sobre</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> • 
+ <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#clipboard-pré-requisitos">Pré-requisitos</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> • 
- <a href="#licença">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#hammer-tecnologias">Tecnologias</a> •
+ <a href="#autor">Autor</a> •
+ <a href="#licença">Licença</a>
 </p>
 
 ## :computer: Sobre
@@ -84,12 +84,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 
 ---
-### **Licença**
-
-
----
 ### **Autor**
-
 
 <a href="https://github.com/rafaelfachinelli">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
@@ -103,3 +98,7 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
 [![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
 [![Outlook Badge](https://img.shields.io/badge/-outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+
+---
+### **Licença**
+
