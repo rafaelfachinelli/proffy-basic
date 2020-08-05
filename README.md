@@ -3,10 +3,11 @@
 <p align="center">Sua plataforma de estudos online.</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#status">Status</a> •
+ <a href="#features">Features</a> • 
+ <a href="#demonstração">Demonstração</a> • 
+ <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
