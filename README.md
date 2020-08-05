@@ -12,36 +12,40 @@
 <p>
 
 <p align="center">
+ <a href="#computer-sobre">Sobre</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#demonstração">Demonstração</a> • 
- <a href="#pré-requisitos">Pré-requisitos</a> •
+ <a href="#movie_camera-demonstração">Demonstração</a> • 
+ <a href="#clipboard-pré-requisitos">Pré-requisitos</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> • 
  <a href="#licença">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-### :memo: **Roteiro**
+## :computer: Sobre
+
+
+
 ---
+### :memo: **Roteiro**
 
 - [x] Design Página Inicial (Desktop)
 - [x] Design Página Inicial (Mobile)
 - [x] Design Página de busca por professores (Desktop)
 - [x] Design Página de busca por professores (Mobile)
 
-### :triangular_ruler: **Status do Projeto**
 ---
+### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
 	🚧  Proffy 💼 Em construção...  🚧
 </h4>
 
-### Demonstração
----
+### :movie_camera: **Demonstração**
 
 
-### Pré-requisitos
 ---
+### :clipboard: **Pré-requisitos**
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -68,19 +72,22 @@ $ npm run dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### :hammer: Tecnologias
 ---
+### :hammer: **Tecnologias**
+
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 
-### Licença
 ---
+### **Licença**
 
-### Autor
+
 ---
+### **Autor**
+
 
 <a href="https://github.com/rafaelfachinelli">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
