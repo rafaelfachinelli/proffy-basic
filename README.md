@@ -1,5 +1,3 @@
-<h1 align="center">Proffy</h1>
-
 <img src="./github/banner.png" alt="Proffy">
 
 <p align="center">Sua plataforma de estudos online.</p>
