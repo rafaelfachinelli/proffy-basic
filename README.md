@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#status">Status</a> •
- <a href="#features">Features</a> • 
+ <a href="#roteiro">Roteiro</a> • 
  <a href="#demonstracao">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
@@ -18,7 +18,7 @@
 	🚧  Proffy 💼 Em construção...  🚧
 </h4>
 
-### Features
+### 💫 **Roteiro**
 
 - [x] Design Página Inicial (Desktop)
 - [x] Design Página Inicial (Mobile)
