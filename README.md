@@ -25,7 +25,7 @@
 - [x] Design Página de busca por professores (Desktop)
 - [x] Design Página de busca por professores (Mobile)
 
-### Demonstração da aplicação (retirar)
+### Demonstração
 
 
 
