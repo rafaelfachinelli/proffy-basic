@@ -4,11 +4,11 @@
 
 <p align="center">
  <a href="#memo-roteiro">Roteiro</a> •
- <a href="#triangular_ruler-status">Status</a> •
- <a href="#demonstracao">Demonstração</a> • 
+ <a href="#triangular_ruler-status-do-projeto">Status</a> •
+ <a href="#demonstração">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
+ <a href="#licença">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -38,7 +38,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disso é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
 
-## 🎲 Rodando o Back End (servidor)
+#### 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
