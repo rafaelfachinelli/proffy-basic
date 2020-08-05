@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#status">Status</a> •
  <a href="#features">Features</a> • 
- <a href="#demonstração">Demonstração</a> • 
+ <a href="#demonstrac-o">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
