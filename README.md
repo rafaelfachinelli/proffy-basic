@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#status">Status</a> •
  <a href="#features">Features</a> • 
- <a href="#demonstra">Demonstração</a> • 
+ <a href="#demonstração">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
@@ -62,6 +62,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+
+### Licença
 
 Autor
 ---
