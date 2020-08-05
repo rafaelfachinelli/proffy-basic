@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#status">Status</a> •
- <a href="#dizzy-roteiro">Roteiro</a> • 
+ <a href="#memo-requisitos">Requisitos</a> • 
  <a href="#demonstracao">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
@@ -12,18 +12,20 @@
  <a href="#autor">Autor</a>
 </p>
 
-### Status do Projeto
 
-<h4 align="center"> 
-	🚧  Proffy 💼 Em construção...  🚧
-</h4>
 
-### :dizzy: **Roteiro**
+### :memo: **Requisitos**
 
 - [x] Design Página Inicial (Desktop)
 - [x] Design Página Inicial (Mobile)
 - [x] Design Página de busca por professores (Desktop)
 - [x] Design Página de busca por professores (Mobile)
+
+### Status do Projeto
+
+<h4 align="center"> 
+	🚧  Proffy 💼 Em construção...  🚧
+</h4>
 
 ### Demonstração
 
