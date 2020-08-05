@@ -1,8 +1,4 @@
-<h1 align="center">Proffy</h1>
-
 <img src="./github/banner.png" alt="Proffy">
-
-<p align="center">Sua plataforma de estudos online.</p>
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
@@ -18,7 +14,6 @@
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#clipboard-pré-requisitos">Pré-requisitos</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
@@ -47,38 +42,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 ### :movie_camera: **Demonstração**
 
-
----
-### :clipboard: **Pré-requisitos**
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disso é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
-
-#### 🎲 Rodando o Back End (servidor)
-
-```bash
-# Clone este repositório
-$ git clone <https://github.com/rafaelfachinelli/Proffy>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd Proffy
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
-```
-
 ---
 ### :hammer: **Tecnologias**
-
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
