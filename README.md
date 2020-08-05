@@ -3,25 +3,23 @@
 <p align="center">Sua plataforma de estudos online.</p>
 
 <p align="center">
- <a href="#status">Status</a> •
- <a href="#memo-requisitos">Requisitos</a> • 
+ <a href="#memo-roteiro">Roteiro</a> •
+ <a href="#triangular_ruler-status">Status</a> •
  <a href="#demonstracao">Demonstração</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#hammer-tecnologias">Tecnologias</a> • 
  <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-
-
-### :memo: **Requisitos**
+### :memo: **Roteiro**
 
 - [x] Design Página Inicial (Desktop)
 - [x] Design Página Inicial (Mobile)
 - [x] Design Página de busca por professores (Desktop)
 - [x] Design Página de busca por professores (Mobile)
 
-### Status do Projeto
+### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
 	🚧  Proffy 💼 Em construção...  🚧
@@ -58,7 +56,7 @@ $ npm run dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### 🛠 Tecnologias
+### :hammer: Tecnologias
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
