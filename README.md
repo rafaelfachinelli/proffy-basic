@@ -13,6 +13,7 @@
 </p>
 
 ### :memo: **Roteiro**
+---
 
 - [x] Design Página Inicial (Desktop)
 - [x] Design Página Inicial (Mobile)
@@ -20,22 +21,24 @@
 - [x] Design Página de busca por professores (Mobile)
 
 ### :triangular_ruler: **Status do Projeto**
+---
 
 <h4 align="center"> 
 	🚧  Proffy 💼 Em construção...  🚧
 </h4>
 
 ### Demonstração
-
+---
 
 
 ### Pré-requisitos
+---
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disso é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
 
-### 🎲 Rodando o Back End (servidor)
+## 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
@@ -57,6 +60,7 @@ $ npm run dev
 ```
 
 ### :hammer: Tecnologias
+---
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
