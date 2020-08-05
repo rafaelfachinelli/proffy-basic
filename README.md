@@ -102,3 +102,4 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ---
 ### **Licença**
 
+Esse repositório está licenciado pela <b>MIT LICENSE</b>. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
