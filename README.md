@@ -1,4 +1,4 @@
-<img src="./github/banner.png" alt="Proffy">
+<img alt="Proffy" src="./github/banner.png">
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
@@ -21,16 +21,23 @@
 
 ## :computer: Sobre
 
+Sistema para estudantes e professores se conectarem e realizarem aulas e atividades privadas.
+
 Projeto desenvolvido durante a **NLW - Next Level Week#2** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
 ### :memo: **Roteiro**
 
-- [x] Design Página Inicial (Desktop)
-- [x] Design Página Inicial (Mobile)
-- [x] Design Página de busca por professores (Desktop)
-- [x] Design Página de busca por professores (Mobile)
+- [x] Construir página inicial :computer:
+- [x] Construir página inicial :iphone:
+- [x] Construir página de busca :computer:
+- [x] Construir página de busca :iphone:
+- [x] Construir página de cadastro :computer:
+- [x] Construir página de cadastro :iphone:
+- [ ] Incluir novo horário no cadastro de professor :computer::iphone:
+- [ ] Cadastrar professor no banco de dados :computer::iphone:
+- [ ] Buscar professor no banco de dados :computer::iphone:
 
 ---
 ### :triangular_ruler: **Status do Projeto**
@@ -41,6 +48,28 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 ### :movie_camera: **Demonstração**
+
+<p align="center"><b> :iphone: MOBILE </b></p>
+
+<p align="center">Página Inicial</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png" width=250px height=400px></p>
+
+<p align="center">Página de Busca</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png" width=250px height=400px></p>
+
+<p align="center">Página de Cadastro</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png" width=250px height=400px></p>
+
+<p align="center"><b> :computer: DESKTOP </b></p>
+
+<p align="center">Página Inicial</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-index.png" width=400px height=250px></p>
+
+<p align="center">Página de Busca</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.png" width=400px height=250px></p>
+
+<p align="center">Página de Cadastro</p>
+<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png" width=400px height=250px></p>
 
 ---
 ### :hammer: **Tecnologias**
