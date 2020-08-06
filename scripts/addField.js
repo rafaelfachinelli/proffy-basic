@@ -1,12 +1,14 @@
-// Procurar o botão
 document.querySelector("#add-time")
 .addEventListener('click', cloneField)
-//Ao clicar no botão
 
-//Executar ação
 function cloneField() {
-  console.log('Clicou no botão.')
-}
-//Duplicar os campos
+  const newFieldContainer = document.querySelector('.schedule-item').cloneNode(true);
 
-//Colocar na página
+  const fields = newFieldContainer.querySelectorAll('input');
+
+  fields.forEach(function(field) {
+    field.value = "";
+  });
+
+  document.querySelector('#schedule-items').appendChild(newFieldContainer);
+}
