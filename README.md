@@ -35,9 +35,10 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Construir página de busca :iphone:
 - [x] Construir página de cadastro :computer:
 - [x] Construir página de cadastro :iphone:
-- [ ] Incluir novo horário no cadastro de professor :computer::iphone:
-- [ ] Cadastrar professor no banco de dados :computer::iphone:
-- [ ] Buscar professor no banco de dados :computer::iphone:
+- [x] Incluir novo horário no cadastro de professor :computer::iphone:
+- [ ] Construir servidor back end :computer:
+- [ ] Construir funcionalidade de cadastrar professor no banco de dados :computer:
+- [ ] Construir funcionalidade buscar professor no banco de dados :computer::
 
 ---
 ### :triangular_ruler: **Status do Projeto**
@@ -78,6 +79,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- [Node.js](https://nodejs.org/pt-br/)
+- [Express](https://expressjs.com/pt-br/)
 
 ---
 ### :boy: **Autor**
