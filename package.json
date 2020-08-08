@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Plataforma de estudos online.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfachinelli/Proffy.git"
+  },
+  "keywords": [],
+  "author": "Rafael Fachinelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelfachinelli/Proffy/issues"
+  },
+  "homepage": "https://github.com/rafaelfachinelli/Proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
