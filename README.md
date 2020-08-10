@@ -84,6 +84,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://nodemon.io)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [SQLite](https://www.sqlite.org)
 
 ---
 ### :boy: **Autor**
@@ -104,4 +105,5 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ---
 ### :page_facing_up: **Licença**
 
-Esse repositório está licenciado pela <b>MIT LICENSE</b>. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
+Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+This project is [MIT](./LICENSE) licensed.
