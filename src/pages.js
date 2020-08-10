@@ -83,15 +83,26 @@ async function saveClasses(req, res) {
     queryString += "&weekday=" + req.body.weekday[0]
     queryString += "&time=" + req.body.time_from[0]
 
+    // return res.redirect("/success" + queryString)
     return res.redirect("/study" + queryString)
   } catch (error) {
     console.log(error)
   }
 }
 
+function success(req, res) {
+  // res.render("success.html", { subjects, weekdays })
+  res.render("success.html")
+
+  setTimeout(() => {
+    return res.render("/study")
+  }, 2000)
+}
+
 module.exports = {
   pageLanding,
   pageStudy,
   pageGiveClasses,
-  saveClasses
+  saveClasses,
+  success,
 }
