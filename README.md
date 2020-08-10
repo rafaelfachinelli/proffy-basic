@@ -21,7 +21,7 @@
 
 ## :computer: Sobre
 
-Sistema para estudantes e professores se conectarem e realizarem aulas e atividades privadas.
+O projeto é desenvolvido para estudantes e professores. Os professores pode realizar o cadastro na plataforma inserindo algumas informações pessoais como nome, biografia, whatsapp para contato dos alunos e dias da semana com horário disponíveis para oferecer aula. Os alunos buscam professores particulares através do horário, dias da semana e matéria de sua escolha.
 
 Projeto desenvolvido durante a **NLW - Next Level Week#2** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
