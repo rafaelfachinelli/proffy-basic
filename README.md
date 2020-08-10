@@ -38,8 +38,13 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Incluir novo horário no cadastro de professor :computer::iphone:
 - [x] Construir servidor back end :computer:
 - [x] Interface da página de busca dinâmica :computer:
-- [ ] Construir funcionalidade de cadastrar professor no banco de dados :computer:
-- [ ] Construir funcionalidade buscar professor no banco de dados :computer:
+- [x] Construir banco de dados :computer:
+- [x] Criar consultas SQL :computer:
+- [x] Construir funcionalidade de cadastrar professor no banco de dados :computer:
+- [x] Construir funcionalidade buscar professor no banco de dados :computer:
+- [x] Construir página de sucesso :computer::iphone:
+- [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
+- [ ] Página de sucesso redirecionar para página de busca :computer:
 
 ---
 ### :triangular_ruler: **Status do Projeto**
