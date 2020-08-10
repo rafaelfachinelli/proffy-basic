@@ -84,7 +84,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://nodemon.io)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
-- [SQLite](www.sqlite.org)
+- [SQLite](https://www.sqlite.org)
 
 ---
 ### :boy: **Autor**
