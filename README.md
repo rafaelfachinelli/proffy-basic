@@ -14,6 +14,7 @@
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
+ <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
@@ -77,6 +78,28 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center">Página de Cadastro</p>
 <p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png"></kbd></p>
+
+---
+### :dvd: **Executar o Projeto**
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/rafaelfachinelli/proffy>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd proffy
+
+# Instale as dependências
+$ npm install
+
+# Gerar as tabelas do banco de dados
+$ node src/database/db.js
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
+```
 
 ---
 ### :hammer: **Tecnologias**
