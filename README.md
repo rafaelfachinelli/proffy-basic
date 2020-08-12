@@ -58,25 +58,25 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center"><b> :iphone: MOBILE </b></p>
 
-<p align="center">Página Inicial</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png" width=250px height=400px></p>
-
+<p align="center">Página Inicial
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png"></kbd></p>
+  
 <p align="center">Página de Busca</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png" width=250px height=400px></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png"></kbd></p>
 
 <p align="center">Página de Cadastro</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png" width=250px height=400px></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px></kbd> <kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png"></kbd></p>
 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
 <p align="center">Página Inicial</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-index.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-index.png"></kbd></p>
 
 <p align="center">Página de Busca</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.png"></kbd></p>
 
 <p align="center">Página de Cadastro</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png"></kbd></p>
 
 ---
 ### :hammer: **Tecnologias**
