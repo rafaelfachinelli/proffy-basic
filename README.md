@@ -66,7 +66,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
 <p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.gif"></kbd>
-&nbsp
+</br></br>
 <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.gif"></kbd></p>
 
 ---
