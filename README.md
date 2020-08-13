@@ -59,14 +59,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center"><b> :iphone: MOBILE </b></p>
 
-<p align="center">Página Inicial
-<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png"></kbd></p>
-  
-<p align="center">Página de Busca</p>
-<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png"></kbd></p>
-
-<p align="center">Página de Cadastro</p>
-<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px></kbd> <kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png"></kbd></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"></kbd></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"></kbd></p>
 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
