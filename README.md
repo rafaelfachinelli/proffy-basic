@@ -1,8 +1,8 @@
 <img alt="Proffy" src="./github/banner.png">
 
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/Proffy?style=flat-square">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-discovery?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-discovery?style=flat-square">
   <a href="https://github.com/rafaelfachinelli">
     <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=flat-square">
   </a>
