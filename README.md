@@ -14,6 +14,7 @@
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
+ <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
@@ -21,9 +22,9 @@
 
 ## :computer: Sobre
 
-Sistema para estudantes e professores se conectarem e realizarem aulas e atividades privadas.
+O projeto é desenvolvido para estudantes e professores. Os professores pode realizar o cadastro na plataforma inserindo algumas informações pessoais como nome, biografia, whatsapp para contato dos alunos e dias da semana com horário disponíveis para oferecer aula. Os alunos buscam professores particulares através do horário, dias da semana e matéria de sua escolha.
 
-Projeto desenvolvido durante a **NLW - Next Level Week#2** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
+Projeto desenvolvido durante a **NLW - Next Level Week#2** na **Trilha Discovery** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
@@ -38,8 +39,13 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Incluir novo horário no cadastro de professor :computer::iphone:
 - [x] Construir servidor back end :computer:
 - [x] Interface da página de busca dinâmica :computer:
-- [ ] Construir funcionalidade de cadastrar professor no banco de dados :computer:
-- [ ] Construir funcionalidade buscar professor no banco de dados :computer:
+- [x] Construir banco de dados :computer:
+- [x] Criar consultas SQL :computer:
+- [x] Construir funcionalidade de cadastrar professor no banco de dados :computer:
+- [x] Construir funcionalidade buscar professor no banco de dados :computer:
+- [x] Construir página de sucesso :computer::iphone:
+- [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
+- [ ] Página de sucesso redirecionar para página de busca :computer:
 
 ---
 ### :triangular_ruler: **Status do Projeto**
@@ -53,25 +59,47 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center"><b> :iphone: MOBILE </b></p>
 
-<p align="center">Página Inicial</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png" width=250px height=400px></p>
-
+<p align="center">Página Inicial
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png"></kbd></p>
+  
 <p align="center">Página de Busca</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png" width=250px height=400px></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.png"></kbd></p>
 
 <p align="center">Página de Cadastro</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png" width=250px height=400px></p>
+<p align="center"><kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.png" width=250px height=400px></kbd> <kbd><img width="250" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes2.png"></kbd></p>
 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
 <p align="center">Página Inicial</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-index.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-index.png"></kbd></p>
 
 <p align="center">Página de Busca</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.png"></kbd></p>
 
 <p align="center">Página de Cadastro</p>
-<p align="center"><img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png" width=400px height=250px> <img alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png" width=400px height=250px></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes2.png"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes3.png"></kbd></p>
+
+---
+### :dvd: **Executar o Projeto**
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/rafaelfachinelli/proffy>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd proffy
+
+# Instale as dependências
+$ npm install
+
+# Gerar as tabelas do banco de dados
+$ node src/database/db.js
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
+```
 
 ---
 ### :hammer: **Tecnologias**
@@ -97,10 +125,10 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafaelfachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
 [![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
 
 ---
 ### :page_facing_up: **Licença**
