@@ -59,7 +59,13 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <p align="center"><b> :iphone: MOBILE </b></p>
 
-<p align="center"><kbd><img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"></kbd> <kbd><img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"></kbd></p>
+<div align="center">
+
+Inicial | Busca | Cadastro 
+---|---|---
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-index.png"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"> |
+
+</div>
 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
