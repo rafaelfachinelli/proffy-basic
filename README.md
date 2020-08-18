@@ -22,10 +22,10 @@
 
 ## :computer: Sobre
 
-O projeto é desenvolvido para estudantes e professores. Os professores pode realizar o cadastro na plataforma inserindo algumas informações pessoais como nome, biografia, whatsapp para contato dos alunos e dias da semana com horário disponíveis para oferecer aula. Os alunos buscam professores particulares através do horário, dias da semana e matéria de sua escolha.
+A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
 
-Projeto desenvolvido durante a **NLW - Next Level Week#2** na **Trilha Discovery** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha Discovery** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
+O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
 
 ---
 ### :memo: **Roteiro**
@@ -45,13 +45,12 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Construir funcionalidade buscar professor no banco de dados :computer:
 - [x] Construir página de sucesso :computer::iphone:
 - [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
-- [ ] Página de sucesso redirecionar para página de busca :computer:
 
 ---
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	🚧  Proffy 💼 Em construção...  🚧
+	👨‍🏫 Proffy v1.0 concluído !
 </h4>
 
 ---
