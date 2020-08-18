@@ -125,4 +125,4 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ### :page_facing_up: **Licença**
 
 Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-This project is [MIT](./LICENSE) licensed.
+Este projeto é licenciado pelo [MIT](./LICENSE).
