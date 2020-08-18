@@ -88,9 +88,9 @@ $ node src/database/db.js
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
-
-# O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
 ```
+
+> ⚠️ O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
 
 ---
 ### :hammer: **Tecnologias**
