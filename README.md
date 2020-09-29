@@ -30,6 +30,9 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ---
 ### :memo: **Roteiro**
 
+<details>
+<summary>Clique para Visualizar</summary>
+
 - [x] Construir página inicial :computer:
 - [x] Construir página inicial :iphone:
 - [x] Construir página de busca :computer:
@@ -45,6 +48,8 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 - [x] Construir funcionalidade buscar professor no banco de dados :computer:
 - [x] Construir página de sucesso :computer::iphone:
 - [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
+
+</details>
 
 ---
 ### :triangular_ruler: **Status do Projeto**
