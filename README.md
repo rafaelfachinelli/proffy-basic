@@ -10,15 +10,34 @@
 <p>
 
 <p align="center">
+ <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
+
+---
+### :movie_camera: **Demonstração**
+
+<p align="center"><b> :iphone: MOBILE </b></p>
+
+<div align="center">
+
+Busca | Cadastro 
+---|---
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"> |
+
+</div>
+
+<p align="center"><b> :computer: DESKTOP </b></p>
+
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.gif"></kbd></p>
+
+---
 
 ## :computer: Sobre
 
@@ -57,23 +76,6 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 <h4 align="center"> 
 	👨‍🏫 Proffy v1.0 concluído !
 </h4>
-
----
-### :movie_camera: **Demonstração**
-
-<p align="center"><b> :iphone: MOBILE </b></p>
-
-<div align="center">
-
-Busca | Cadastro 
----|---
-<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"> |
-
-</div>
-
-<p align="center"><b> :computer: DESKTOP </b></p>
-
-<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.gif"></kbd></p>
 
 ---
 ### :dvd: **Executar o Projeto**
