@@ -29,13 +29,13 @@
 
 Busca | Cadastro 
 ---|---
-<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./github/demo-mobile-give-classes.gif"> |
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
 
 </div>
 
 <p align="center"><b> :computer: DESKTOP </b></p>
 
-<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./github/demo-desk-give-classes.gif"></kbd></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-give-classes.gif"></kbd></p>
 
 ---
 
