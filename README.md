@@ -1,131 +1,126 @@
-<img alt="Proffy" src=".github/banner.png">
+<p align="center">
+  <img alt="Proffy" src=".github/banner.svg" width="400px"/>
+</p>
 
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-discovery?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-discovery?style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-basic?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-basic?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
-<p>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
 
 <p align="center">
- <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">Licença</a>
+  <a href="#eye_speech_bubble-preview">Preview</a> •
+  <a href="#information_source-about">About</a> •
+  <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
-### :movie_camera: **Demonstração**
 
-<p align="center"><b> :iphone: MOBILE </b></p>
+## :eye_speech_bubble: Preview
 
 <div align="center">
 
-Busca | Cadastro 
----|---
-<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
+|Study|Give classes|
+|:---:|:---:|
+|<kbd><img src=".github/demo-desk-study.gif" alt="Study"/></kbd>|<kbd><img src=".github/demo-desk-give-classes.gif" alt="Give classes"/></kbd>|
+
+|Mobile: study|Mobile: give classes|
+|:---:|:---:|
+|<kbd><img src=".github/demo-mobile-study.gif" alt="Study on mobile" width="260px"/></kbd>|<kbd><img src=".github/demo-mobile-give-classes.gif" alt="Give classes on mobile" width="260px"/></kbd>|
 
 </div>
 
-<p align="center"><b> :computer: DESKTOP </b></p>
+---
 
-<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-give-classes.gif"></kbd></p>
+## :information_source: About
+
+👨‍🏫 A platform that connects students and private teachers. Teachers register their name, bio, WhatsApp, subject, price and the week days and hours they are available; students filter teachers by subject, day and time and contact them on WhatsApp.
+
+This is the basic version, with HTML, CSS and JavaScript pages rendered by a Node.js server with Nunjucks and an SQLite database. Built in 2020 during Rocketseat's Next Level Week #2 (Discovery track). The advanced version, with React, React Native and a TypeScript API, is in [proffy-advanced](https://github.com/rafaelfachinelli/proffy-advanced).
 
 ---
 
-## :computer: Sobre
+## :memo: Tasks
 
-A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
-
-Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha Discovery** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
-
----
-### :memo: **Roteiro**
-
+<div align="center">
 <details>
-<summary>Clique para Visualizar</summary>
+<summary>Click to view</summary>
 
-- [x] Construir página inicial :computer:
-- [x] Construir página inicial :iphone:
-- [x] Construir página de busca :computer:
-- [x] Construir página de busca :iphone:
-- [x] Construir página de cadastro :computer:
-- [x] Construir página de cadastro :iphone:
-- [x] Incluir novo horário no cadastro de professor :computer::iphone:
-- [x] Construir servidor back end :computer:
-- [x] Interface da página de busca dinâmica :computer:
-- [x] Construir banco de dados :computer:
-- [x] Criar consultas SQL :computer:
-- [x] Construir funcionalidade de cadastrar professor no banco de dados :computer:
-- [x] Construir funcionalidade buscar professor no banco de dados :computer:
-- [x] Construir página de sucesso :computer::iphone:
-- [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Landing page (desktop and mobile)|
+|:heavy_check_mark:|Study page with filters (desktop and mobile)|
+|:heavy_check_mark:|Give classes form (desktop and mobile)|
+|:heavy_check_mark:|Add more schedules in the form|
+|:heavy_check_mark:|Express server with Nunjucks templates|
+|:heavy_check_mark:|SQLite database and SQL queries|
+|:heavy_check_mark:|Save teachers and search them by filters|
+|:heavy_check_mark:|Success page after registration|
 
 </details>
+</div>
 
 ---
-### :triangular_ruler: **Status do Projeto**
 
-<h4 align="center"> 
-	👨‍🏫 Proffy v1.0 concluído !
-</h4>
+## :arrow_forward: Run
 
----
-### :dvd: **Executar o Projeto**
+You need [Node.js](https://nodejs.org/). In the project folder:
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/rafaelfachinelli/proffy>
+# Install dependencies
+npm install
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd proffy
-
-# Instale as dependências
-$ npm install
-
-# Gerar as tabelas do banco de dados
-$ node src/database/db.js
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+# Start the server
+npm run dev
 ```
 
-> ⚠️ O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
+> The site opens at <http://localhost:5500>.
 
 ---
-### :hammer: **Tecnologias**
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
-
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- [Node.js](https://nodejs.org/pt-br/)
-- [Express](https://expressjs.com/pt-br/)
-- [Nodemon](https://nodemon.io)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
-- [SQLite](https://www.sqlite.org)
-
----
-### :boy: **Autor**
+## :hammer_and_wrench: Technologies
 
 <div align="center">
-  
-[![Author](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+
+|Web|Server|
+|:---:|:---:|
+|[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)|[Node.js](https://nodejs.org/)|
+|[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)|[Express](https://expressjs.com/)|
+|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[Nunjucks](https://mozilla.github.io/nunjucks/)|
+||[SQLite](https://www.sqlite.org/)|
 
 </div>
 
 ---
-### :page_facing_up: **Licença**
+
+## :boy: Author
 
 <div align="center">
-  
-[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
+
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
+</a>
+
+Tech Lead and software engineer. Get in touch!
+
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
+
+---
+
+## :balance_scale: License
+
+This project is under the [MIT license](./LICENSE).
